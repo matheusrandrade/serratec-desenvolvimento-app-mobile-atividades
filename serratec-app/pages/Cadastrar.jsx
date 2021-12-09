@@ -84,7 +84,7 @@ const Cadastrar = ({navigation}) => {
                   <HStack space={2} flexShrink={1}>
                     <Alert.Icon mt="1" />
                     <Text fontSize="md" color="coolGray.800">
-                      {"Usuário ou senha incorretos"}
+                      {"Ocorreu um erro. Por favor, tente novamente."}
                     </Text>
                   </HStack>
                   <IconButton
